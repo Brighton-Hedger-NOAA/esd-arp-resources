@@ -62,3 +62,15 @@ sidebar:
 </li>
 
 </ul>
+
+## Vital Rates Surveys
+<ul>
+<li><a href = "https://doi.org/10.25923/a9se-k649">Measuring Coral Vital Rates Using Structure-from-Motion Photogrammetry at Fixed Sites: Standard Operating Procedures and Error Estimates (2021)</a><br>
+- Mesuring Vital Rates
+</li>
+<li><a href = "https://doi.org/10.25923/s2ym-tn10">Measuring coral vital rates using TagLab semi-automatic coral segmentation and temporal linking across fixed sites: standard operating procedures and time savings estimates (2023) </a>
+</li>
+<li><a href ="https://doi.org/10.25923/cydj-z260">Processing coral reef imagery using Structure-from-Motion photogrammetry : Standard operating procedures (2023 update)</a><br>
+- Processing imagery<br>
+- SOP</li>
+</ul>
